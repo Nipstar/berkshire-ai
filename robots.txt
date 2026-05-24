@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aiservicesberkshire.co.uk/sitemap.xml
